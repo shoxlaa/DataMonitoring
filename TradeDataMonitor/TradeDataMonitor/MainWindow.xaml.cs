@@ -138,7 +138,7 @@ namespace TradeDataMonitor
             {
                 InitialDirectory = "C:\\Users",
                 IsFolderPicker = true
-            };
+            }; 
 
             if (dialog.ShowDialog() == CommonFileDialogResult.Ok)
             {

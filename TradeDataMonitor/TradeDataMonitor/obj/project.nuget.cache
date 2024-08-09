@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/iZmMjwmJds=",
+  "dgSpecHash": "FgaNMlZMEZWIb/gvs23feOFyge/1rEcHw0xLZFlZ8ktcCqeVDw7lDq3EhYPpjzL/ZG6QgVaq8mSuq3qHvATdlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\TradeDataMonitor\\TradeDataMonitor.csproj",
+  "projectFilePath": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\TradeDataMonitor.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\windowsapicodepack-core\\1.1.1\\windowsapicodepack-core.1.1.1.nupkg.sha512",
-    "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\windowsapicodepack-shell\\1.1.1\\windowsapicodepack-shell.1.1.1.nupkg.sha512"
+    "C:\\Users\\Legion\\.nuget\\packages\\windowsapicodepack-core\\1.1.1\\windowsapicodepack-core.1.1.1.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\windowsapicodepack-shell\\1.1.1\\windowsapicodepack-shell.1.1.1.nupkg.sha512"
   ],
   "logs": [
     {
