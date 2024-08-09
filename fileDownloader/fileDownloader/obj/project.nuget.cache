@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VnlRtOq2NeHFJ3SGaV6evAPJvUUSRk48u1/s+mzdFi05LNbq4/a3n1QCUQELdxijlczK2To3Reoowk1zQUanVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quliyeva Shahla\\source\\repos\\fileDownloader\\fileDownloader\\fileDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\simpleinjector\\5.4.6\\simpleinjector.5.4.6.nupkg.sha512",
+    "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
