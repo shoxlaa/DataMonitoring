@@ -1,20 +1,33 @@
-﻿<Window x:Class="fileDownloader.MainWindow"
+﻿<Window x:Class="fileDownloader.View.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:fileDownloader" 
+        xmlns:vm="clr-namespace:fileDownloader.ViewModel" 
+        xmlns:vmB="clr-namespace:fileDownloader.ViewModel.Base" 
+        xmlns:views="clr-namespace:fileDownloader.View"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
-        mc:Ignorable="d"
-   
-        Title="MainWindow" Height="450" Width="800" >
+        mc:Ignorable="d" 
+        Title="MainWindow" 
+        Height="450" 
+        Width="800" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+
     <Window.Resources>
-        <DataTemplate>
-            
+        <!-- Corrected DataTemplate to specify a Key -->
+        <DataTemplate DataType="{x:Type vm:LoaderViewModel}">
+            <views:LoaderView/>
         </DataTemplate>
     </Window.Resources>
-    
+
     <Grid>
-    
+        
     </Grid>
 </Window>

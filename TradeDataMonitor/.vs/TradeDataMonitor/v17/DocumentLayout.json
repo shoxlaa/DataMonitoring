@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\",
+  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|c:\\users\\quliyeva shahla\\source\\repos\\tradedatamonitor\\tradedatamonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|c:\\users\\legion\\desktop\\xalq bank\\datamonitoring\\tradedatamonitor\\tradedatamonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|solutionrelative:tradedatamonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|c:\\users\\quliyeva shahla\\source\\repos\\tradedatamonitor\\tradedatamonitor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|c:\\users\\legion\\desktop\\xalq bank\\datamonitoring\\tradedatamonitor\\tradedatamonitor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|solutionrelative:tradedatamonitor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|c:\\users\\quliyeva shahla\\source\\repos\\tradedatamonitor\\tradedatamonitor\\tradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|c:\\users\\legion\\desktop\\xalq bank\\datamonitoring\\tradedatamonitor\\tradedatamonitor\\tradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|solutionrelative:tradedatamonitor\\tradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|c:\\users\\quliyeva shahla\\source\\repos\\tradedatamonitor\\tradedatamonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|c:\\users\\legion\\desktop\\xalq bank\\datamonitoring\\tradedatamonitor\\tradedatamonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|solutionrelative:tradedatamonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|c:\\users\\quliyeva shahla\\source\\repos\\tradedatamonitor\\tradedatamonitor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|c:\\users\\legion\\desktop\\xalq bank\\datamonitoring\\tradedatamonitor\\tradedatamonitor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{E984FDD8-1B77-47CF-ABD7-77A85CAB5A0C}|TradeDataMonitor\\TradeDataMonitor.csproj|solutionrelative:tradedatamonitor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -30,55 +30,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\TradeDataMonitor\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\App.xaml.cs",
               "RelativeDocumentMoniker": "TradeDataMonitor\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\TradeDataMonitor\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\App.xaml.cs",
               "RelativeToolTip": "TradeDataMonitor\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T13:46:47.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T13:46:47.916Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TradeData.cs",
-              "DocumentMoniker": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\TradeDataMonitor\\TradeData.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\TradeData.cs",
               "RelativeDocumentMoniker": "TradeDataMonitor\\TradeData.cs",
-              "ToolTip": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\TradeDataMonitor\\TradeData.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\TradeData.cs",
               "RelativeToolTip": "TradeDataMonitor\\TradeData.cs",
               "ViewState": "AQIAAG4AAAAAAAAAAAAUwJ8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T12:38:14.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T12:38:14.026Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\TradeDataMonitor\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TradeDataMonitor\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\TradeDataMonitor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\MainWindow.xaml",
               "RelativeToolTip": "TradeDataMonitor\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-09T06:54:07.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T06:54:07.191Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\TradeDataMonitor\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TradeDataMonitor\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\TradeDataMonitor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\MainWindow.xaml.cs",
               "RelativeToolTip": "TradeDataMonitor\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAhwIwAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T06:17:22.935Z",
               "EditorCaption": ""
@@ -87,14 +88,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\TradeDataMonitor\\App.config",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\App.config",
               "RelativeDocumentMoniker": "TradeDataMonitor\\App.config",
-              "ToolTip": "C:\\Users\\Quliyeva Shahla\\source\\repos\\TradeDataMonitor\\TradeDataMonitor\\App.config",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\App.config",
               "RelativeToolTip": "TradeDataMonitor\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-08T08:07:47.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T08:07:47.465Z"
             }
           ]
         }

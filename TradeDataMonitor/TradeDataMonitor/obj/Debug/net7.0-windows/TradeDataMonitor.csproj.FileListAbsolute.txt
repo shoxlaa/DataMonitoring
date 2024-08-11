@@ -44,9 +44,10 @@ C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonit
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonitor\obj\Debug\net7.0-windows\TradeDataMonitor.AssemblyInfoInputs.cache
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonitor\obj\Debug\net7.0-windows\TradeDataMonitor.AssemblyInfo.cs
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonitor\obj\Debug\net7.0-windows\TradeDataMonitor.csproj.CoreCompileInputs.cache
-C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonitor\obj\Debug\net7.0-windows\TradeDataMonitor.csproj.CopyComplete
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonitor\obj\Debug\net7.0-windows\TradeDataMonitor.dll
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonitor\obj\Debug\net7.0-windows\refint\TradeDataMonitor.dll
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonitor\obj\Debug\net7.0-windows\TradeDataMonitor.pdb
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonitor\obj\Debug\net7.0-windows\TradeDataMonitor.genruntimeconfig.cache
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonitor\obj\Debug\net7.0-windows\ref\TradeDataMonitor.dll
+C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonitor\obj\Debug\net7.0-windows\TradeDataMonitor.sourcelink.json
+C:\Users\Legion\Desktop\xalq bank\DataMonitoring\TradeDataMonitor\TradeDataMonitor\obj\Debug\net7.0-windows\TradeDat.09F4567B.Up2Date

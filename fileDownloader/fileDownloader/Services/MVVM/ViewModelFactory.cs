@@ -1,4 +1,5 @@
-﻿using fileDownloader.ViewModel.Base;
+﻿using fileDownloader.ViewModel;
+using fileDownloader.ViewModel.Base;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,8 @@ namespace fileDownloader.Services.MVVM
         {
             return type switch
             {
-                //ViewModelType.StoreViewModel => App.p_container.GetInstance<LoginViewModel>(),
+
+                ViewModelType.LoaderViewModel => App.p_container.GetInstance<LoaderViewModel>(),
                 ///ViewModelType.GamesViewModel => App.p_container.GetInstance<GamesViewModel>(),
                 //ViewModelType.AddViewModel => App.p_container.GetInstance<AddViewModel>(),
                 //ViewModelType.GameDescriptionViewModel => App.p_container.GetInstance<GameDescriptionViewModel>(),
@@ -30,6 +32,6 @@ namespace fileDownloader.Services.MVVM
 
     public enum ViewModelType
     {
-        LoaderViewModel; 
+        LoaderViewModel
     }
 }

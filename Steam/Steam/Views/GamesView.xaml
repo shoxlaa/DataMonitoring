@@ -1,0 +1,199 @@
+﻿<UserControl x:Class="Steam.Views.GamesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:Steam.Views"
+             xmlns:vm="clr-namespace:Steam.ViewModels"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800" Background="#292929"
+             d:DataContext="{d:DesignInstance vm:GamesViewModel}"
+             >
+    <Grid>
+        
+        <materialDesign:Card>
+            <TabControl
+              
+                materialDesign:NavigationRailAssist.ShowSelectionBackground="True"
+                SnapsToDevicePixels="True"
+                Style="{StaticResource MaterialDesignNavigationRailTabControl}"
+                TabStripPlacement="Left">
+                <materialDesign:NavigationRailAssist.FloatingContent>
+                    <Button
+                        Margin="8"
+                        Content="{materialDesign:PackIcon Kind=Plus}"
+                        Style="{StaticResource MaterialDesignFloatingActionAccentButton}" />
+                </materialDesign:NavigationRailAssist.FloatingContent>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel
+                            Width="auto"
+                            Height="auto">
+                            <materialDesign:PackIcon
+                                Width="24"
+                                Height="24"
+                                HorizontalAlignment="Center"
+                                Kind="Bookshelf" />
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                Text="Library" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel Margin="16">
+                        <TextBlock
+                            Margin="0,0,0,8"
+                            Style="{StaticResource MaterialDesignHeadline5TextBlock}"
+                            Text="My Games" />
+                    </StackPanel>
+                </TabItem>
+
+            </TabControl>
+        </materialDesign:Card>
+
+        <materialDesign:Card>
+            <TabControl 
+                materialDesign:NavigationRailAssist.ShowSelectionBackground="True"
+                SnapsToDevicePixels="True"
+                Style="{StaticResource MaterialDesignNavigationRailTabControl}"
+                TabStripPlacement="Left">
+
+                <materialDesign:NavigationRailAssist.FloatingContent>
+
+                    <Button
+                        Command="{Binding AddCommand}"
+                        Margin="8"
+                        Content="{materialDesign:PackIcon Kind=Plus}"
+                        Style="{StaticResource MaterialDesignFloatingActionAccentButton}" />
+
+                </materialDesign:NavigationRailAssist.FloatingContent>
+
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel
+                            Width="auto"
+                            Height="auto">
+                            <materialDesign:PackIcon
+                                Width="24"
+                                Height="24"
+                                HorizontalAlignment="Center"
+                                Kind="Book" />
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                Text="Library" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel Margin="16">
+                        
+                        <TextBlock
+                            Margin="0,0,0,8"
+                            Style="{StaticResource MaterialDesignHeadline5TextBlock}"
+                            Text="GAMES LIBRARY" />
+
+                        <ListView   Height="350"   SelectedItem="{Binding SelectedGame , Mode=TwoWay , NotifyOnSourceUpdated=True}" ItemsSource="{Binding Games ,Mode=TwoWay ,NotifyOnSourceUpdated=True}">    
+                            <i:Interaction.Triggers >
+                                <i:EventTrigger EventName="MouseDoubleClick">
+                                    <i:InvokeCommandAction Command="{Binding SendGameCommand }"  />
+                                   
+                                </i:EventTrigger>
+                            </i:Interaction.Triggers>
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel>
+                                        <TextBlock  Text="{Binding Name}"></TextBlock>
+                                        <TextBlock Text="{Binding Publisher}"></TextBlock>
+                                        <TextBlock Text="{Binding Coast}"></TextBlock>
+                                    </StackPanel>
+
+                                </DataTemplate>
+
+                            </ListView.ItemTemplate>
+                        </ListView>
+                       
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Width="auto" Height="auto">
+                            <materialDesign:PackIcon
+                                Width="30"
+                                Height="30"
+                                HorizontalAlignment="Center"
+                                Kind="Controller" />
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                Text="MyGames" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel Margin="16">
+                        <TextBlock
+                            Margin="0,0,0,8"
+                            Style="{StaticResource MaterialDesignHeadline5TextBlock}"
+                            Text="My  Games" />
+                        <ListView   Height="350"   SelectedItem="{Binding SelectedGame , Mode=TwoWay , NotifyOnSourceUpdated=True}" ItemsSource="{Binding UserGames ,Mode=TwoWay ,NotifyOnSourceUpdated=True}">    
+                            <i:Interaction.Triggers >
+                                <i:EventTrigger EventName="MouseDoubleClick">
+                                    <i:InvokeCommandAction Command="{Binding SendGameCommand}"  />
+
+                                </i:EventTrigger>
+                            </i:Interaction.Triggers>
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel>
+                                        <TextBlock  Text="{Binding Name}"></TextBlock>
+                                        <TextBlock Text="{Binding Publisher}"></TextBlock>
+                                        <TextBlock Text="{Binding Coast}"></TextBlock>
+                                    </StackPanel>
+
+                                </DataTemplate>
+
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackPanel>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Width="auto" Height="auto">
+                            <ToggleButton
+                                Content="{Binding SendedUser.Name}"
+                                Style="{StaticResource MaterialDesignActionToggleButton}"
+                                ToolTip="MaterialDesignActionToggleButton"
+                                materialDesign:ShadowAssist.ShadowDepth="Depth3" />
+                            <TextBlock HorizontalAlignment="Center" Text="Account" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <StackPanel Margin="16">
+                        <TextBlock
+                            Margin="0,0,0,8"
+                            Style="{StaticResource MaterialDesignHeadline5TextBlock}"
+                            Text="Account" />
+                        <TextBlock Text="{Binding SendedUser.UserId}" />
+                        <TextBlock Text="{Binding SendedUser.Name}" />
+                        <TextBlock Text="{Binding SendedUser.UserName}" />
+                        <Button Command="{Binding BackCommand}"  BorderBrush="{x:Null}"  Margin="10,0,0,0" HorizontalAlignment="Left">
+                            Sign Out 
+                        </Button>
+
+                    </StackPanel>
+                </TabItem>
+            </TabControl>
+        </materialDesign:Card>
+
+    </Grid>
+
+
+</UserControl>
+
+<!--<DataGrid x:Name="ProductsList" ItemsSource="{Binding Games, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" 
+                  CanUserAddRows="False"
+                  SelectedItem="{Binding SelectedProduct}"
+                  AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ProductName" Binding="{Binding ProductName}"/>
+                <DataGridTextColumn Header="Category" Binding="{Binding Category}" />
+                <DataGridTextColumn Header="Description" Binding="{Binding Description}"/>
+                <DataGridTextColumn Header="Coast" Binding="{Binding Coast }"/>
+                <DataGridTextColumn Header="Amount" Binding="{Binding ProductAmount}"/>
+            </DataGrid.Columns>
+        </DataGrid>-->

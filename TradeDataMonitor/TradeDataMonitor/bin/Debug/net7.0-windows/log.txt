@@ -1482,3 +1482,55 @@
 09-Aug-24 5:52:26 PM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy - Copy (3) - Copy.txt
 09-Aug-24 5:53:22 PM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy - Copy (2) - Copy.txt
 09-Aug-24 5:53:22 PM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy - Copy (2) - Copy.txt
+09.08.2024 20:45:21: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:45:22: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document.csv
+09.08.2024 20:45:22: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+09.08.2024 20:45:32: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:45:32: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document.csv
+09.08.2024 20:45:32: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+09.08.2024 20:45:32: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document.csv
+09.08.2024 20:45:32: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:45:32: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+09.08.2024 20:45:59: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:45:59: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document.csv
+09.08.2024 20:45:59: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:45:59: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document.csv
+09.08.2024 20:45:59: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+09.08.2024 20:45:59: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+09.08.2024 20:46:28: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:46:28: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document.csv
+09.08.2024 20:46:28: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+09.08.2024 20:47:01: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:47:01: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:47:13: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:48:09: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:48:21: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:48:51: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:49:24: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:49:40: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:51:10: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:51:10: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:51:50: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:51:50: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:52:04: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:52:32: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:52:39: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:57:06: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:59:25: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 20:59:25: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:00:01: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:00:54: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:00:54: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:02:01: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:02:18: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:02:18: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:03:18: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:03:25: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:04:07: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:04:08: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:04:30: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:04:30: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:05:03: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+09.08.2024 21:05:03: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+11.08.2024 14:57:29: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+11.08.2024 14:57:30: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt

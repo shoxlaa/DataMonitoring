@@ -9,6 +9,11 @@
       Title="LoaderView">
 
     <Grid>
-        
+        <StackPanel>
+            <DataGrid x:Name="tradeDataGrid" AutoGenerateColumns="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"  MaxHeight="300">
+            </DataGrid>
+            <Button Content="Change Directory"  />
+
+        </StackPanel>
     </Grid>
 </Page>
