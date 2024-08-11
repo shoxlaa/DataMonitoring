@@ -3,14 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:fileDownloader.View"
+             xmlns:local="clr-namespace:fileDownloader.View" xmlns:viewmodel="clr-namespace:fileDownloader.ViewModel" d:DataContext="{d:DesignInstance Type=viewmodel:LoaderViewModel}"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
         <StackPanel>
             <DataGrid x:Name="tradeDataGrid" AutoGenerateColumns="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"  MaxHeight="300">
             </DataGrid>
-            <Button Content="Change Directory"  />
+
+            <Button Command="{Binding  ChangeLocationCommand}" Content="Change Directory"  />
+            <Label Foreground="White">File Path</Label>
+            <TextBlock  Foreground="White" Text="{Binding Pwd , Mode=TwoWay , NotifyOnSourceUpdated=True}"> Path </TextBlock>
         </StackPanel>
     </Grid>
 </UserControl>

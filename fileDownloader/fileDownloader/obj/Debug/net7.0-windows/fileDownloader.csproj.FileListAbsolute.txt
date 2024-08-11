@@ -53,3 +53,8 @@ C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\b
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.Core.dll
+C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
