@@ -14,6 +14,7 @@ namespace Steam.ViewModels
 
         public MainViewModel(ViewModelFactory factory)
         {
+
             _factory = factory;
 
             CurrentViewModel = (BaseViewModel?)factory.Create(ViewModelType.StoreViewModel);

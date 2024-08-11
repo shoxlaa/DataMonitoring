@@ -21,12 +21,13 @@ namespace fileDownloader
         protected override void OnStartup(StartupEventArgs e)
         {
             p_container.Options.EnableAutoVerification = false;
-            p_container.Register<ViewModelFactory>(Lifestyle.Singleton);
+            p_container.RegisterSingleton<ViewModelFactory>();
             //viewModels
-            p_container.Register<ViewModel.MainViewModel>(Lifestyle.Singleton); 
+            p_container.RegisterSingleton<MainViewModel>(); 
             p_container.RegisterSingleton<LoaderViewModel>();   
             //Views 
-            p_container.Register<MainWindow>(Lifestyle.Singleton);
+            p_container.RegisterSingleton<MainWindow>();
+            
             p_container.RegisterSingleton<LoaderView>();
             var view = p_container.GetInstance<MainWindow>();
             view.Show();

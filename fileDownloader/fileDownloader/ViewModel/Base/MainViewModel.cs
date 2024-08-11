@@ -15,6 +15,7 @@ namespace fileDownloader.ViewModel
 
         public MainViewModel(ViewModelFactory factory)
         {
+
             _factory = factory;
 
             CurrentViewModel = (BaseViewModel?)factory.Create(ViewModelType.LoaderViewModel);

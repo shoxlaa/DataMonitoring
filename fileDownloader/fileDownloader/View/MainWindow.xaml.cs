@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using fileDownloader.ViewModel;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,11 +17,11 @@ namespace fileDownloader.View
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+       
+        public MainWindow(MainViewModel dataContext)
         {
             InitializeComponent();
-         
-
+            DataContext = dataContext;
         }
     }
 }

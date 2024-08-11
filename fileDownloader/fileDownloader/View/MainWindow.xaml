@@ -8,7 +8,6 @@
         xmlns:vmB="clr-namespace:fileDownloader.ViewModel.Base" 
         xmlns:views="clr-namespace:fileDownloader.View"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
-        mc:Ignorable="d" 
         Title="MainWindow" 
         Height="450" 
         Width="800" 
@@ -18,7 +17,11 @@
         TextOptions.TextFormattingMode="Ideal"
         TextOptions.TextRenderingMode="Auto"
         Background="{DynamicResource MaterialDesignPaper}"
-        FontFamily="{DynamicResource MaterialDesignFont}">
+        FontFamily="{DynamicResource MaterialDesignFont}"  
+             mc:Ignorable="d" 
+        d:DataContext="{d:DesignInstance vm:MainViewModel}"
+        >
+    
 
     <Window.Resources>
         <!-- Corrected DataTemplate to specify a Key -->
@@ -26,8 +29,7 @@
             <views:LoaderView/>
         </DataTemplate>
     </Window.Resources>
-
     <Grid>
-        
+        <ContentControl Content="{Binding CurrentViewModel}"/>
     </Grid>
 </Window>

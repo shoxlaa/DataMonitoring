@@ -14,16 +14,4 @@ namespace fileDownloader.ViewModel.Base
     public interface IBaseViewModel
     {
     } 
-
-
-    public partial class  MainViewModel : BaseViewModel
-    {
-        // private readonly ViewModelFactory _factory; 
-
-        [ObservableProperty]
-        private BaseViewModel? _currentViewModel;
-
-
-
-    }
 }

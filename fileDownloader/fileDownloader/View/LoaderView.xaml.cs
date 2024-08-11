@@ -18,7 +18,7 @@ namespace fileDownloader.View
     /// <summary>
     /// Interaction logic for LoaderView.xaml
     /// </summary>
-    public partial class LoaderView : Page
+    public partial class LoaderView : UserControl
     {
         public LoaderView()
         {
