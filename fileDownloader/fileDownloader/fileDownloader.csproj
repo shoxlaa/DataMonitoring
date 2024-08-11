@@ -15,8 +15,4 @@
     <PackageReference Include="WindowsAPICodePack" Version="8.0.4" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\Services\" />
-  </ItemGroup>
-
 </Project>

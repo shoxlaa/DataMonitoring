@@ -18,6 +18,8 @@ namespace TradeDataMonitor
         public int Volume { get; set; }
     }
 
+   
+
 
 
 

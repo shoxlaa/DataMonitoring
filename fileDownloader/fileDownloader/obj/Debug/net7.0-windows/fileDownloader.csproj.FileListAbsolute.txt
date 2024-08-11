@@ -58,3 +58,4 @@ C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\b
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.Sensors.dll
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\fileDownloader.dll.config
