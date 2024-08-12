@@ -3,6 +3,21 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Игнорировать временные файлы Visual Studio
+*.obj
+*.exe
+*.bin
+*.dll
+*.pdb
+
+# Игнорировать директории сборок
+bin/
+obj/
+
+# Игнорировать временные файлы пользователя
+*.user
+*.suo
+
 # User-specific files
 *.rsuser
 *.suo
