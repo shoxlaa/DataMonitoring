@@ -58,6 +58,7 @@ C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\b
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.Sensors.dll
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
 C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+<<<<<<< HEAD
 C:\Users\Quliyeva Shahla\source\repos\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\fileDownloader.exe
 C:\Users\Quliyeva Shahla\source\repos\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\fileDownloader.deps.json
 C:\Users\Quliyeva Shahla\source\repos\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\fileDownloader.runtimeconfig.json
@@ -95,3 +96,6 @@ C:\Users\Quliyeva Shahla\source\repos\DataMonitoring\fileDownloader\fileDownload
 C:\Users\Quliyeva Shahla\source\repos\DataMonitoring\fileDownloader\fileDownloader\obj\Debug\net7.0-windows\fileDownloader.pdb
 C:\Users\Quliyeva Shahla\source\repos\DataMonitoring\fileDownloader\fileDownloader\obj\Debug\net7.0-windows\fileDownloader.genruntimeconfig.cache
 C:\Users\Quliyeva Shahla\source\repos\DataMonitoring\fileDownloader\fileDownloader\obj\Debug\net7.0-windows\ref\fileDownloader.dll
+=======
+C:\Users\Legion\Desktop\xalq bank\DataMonitoring\fileDownloader\fileDownloader\bin\Debug\net7.0-windows\fileDownloader.dll.config
+>>>>>>> 919fbcc682e84f741672eeed40e2b70f20f4c919

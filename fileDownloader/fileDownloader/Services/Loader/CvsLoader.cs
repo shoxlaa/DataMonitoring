@@ -3,7 +3,7 @@ using System.IO;
 
 namespace fileDownloader.Services.Loader
 {
-    public class CvsLoader : ILoader
+    public class CsvLoader : ILoader
     {
         public IEnumerable<TradeData> Load(string filePath)
         {
