@@ -1534,3 +1534,483 @@
 09.08.2024 21:05:03: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
 11.08.2024 14:57:29: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
 11.08.2024 14:57:30: Loading file: C:\Users\Legion\Desktop\xalq bank\DataMonitoring\dataFiles\New Text Document - Copy (2).txt
+12-Aug-24 10:37:00 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:37:00 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:37:00 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:37:00 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:37:00 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:37:40 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:37:41 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:37:41 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:37:41 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:37:41 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:38:27 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:38:27 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:38:27 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:38:27 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:38:27 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:40:09 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:40:09 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:40:09 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:40:09 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:40:09 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:43:15 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:43:15 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:43:15 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:43:15 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:43:15 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:43:15 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:43:15 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:43:15 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:43:15 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:43:15 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:43:15 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:43:15 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:43:15 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:43:16 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:50:51 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:50:51 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:50:51 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:50:51 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:50:51 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:51:20 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:51:21 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:51:21 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:51:21 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:51:21 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:52:04 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:52:04 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:52:04 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:52:04 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:52:04 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:52:05 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:52:16 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:52:16 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:52:16 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:52:16 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:52:16 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:52:17 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:52:17 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:52:17 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:52:17 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:52:17 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:52:17 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:54:00 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:54:00 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:54:00 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:54:00 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:54:00 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:54:20 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy (2).txt
+12-Aug-24 10:54:20 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document.csv
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:54:20 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:57:57 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document.csv
+12-Aug-24 10:57:57 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy (2).txt
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:57:57 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:59:03 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 10:59:03 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:59:03 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:59:13 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy (2).txt
+12-Aug-24 10:59:13 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document.csv
+12-Aug-24 10:59:13 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:59:13 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:59:13 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:59:13 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:59:13 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:59:13 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:59:13 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:59:14 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:59:14 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:59:14 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:59:14 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:59:14 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:59:14 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:59:14 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:59:44 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy (2).txt
+12-Aug-24 10:59:44 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document.csv
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:59:44 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 10:59:55 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document.csv
+12-Aug-24 10:59:55 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy (2).txt
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 10:59:55 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 11:00:44 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy (2) - Copy.txt
+12-Aug-24 11:00:44 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy.csv
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 11:00:44 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 11:00:45 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy.csv
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 11:00:45 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\InputFile\New Text Document - Copy (2) - Copy.txt
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 11:00:45 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 11:01:02 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 11:01:02 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 11:01:02 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document.csv
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-20,30.16,30.39,30.02,30.17,1478200 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-17,29.77,30.26,29.77,30.26,2481400 
+12-Aug-24 11:01:02 AM: Loading file: C:\Users\Quliyeva Shahla\Desktop\New folder\New Text Document - Copy (2).txt
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-16,29.78,29.94,29.55,29.67,1077000 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-15,29.63,29.99,29.63,29.98,928700 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-14,29.53,29.77,29.48,29.6,1065900 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-13,29.33,29.59,29.09,29.51,1005800 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-10,29.89,29.91,29.52,29.83,1831000 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-9,29.65,29.68,29.2,29.3,1693600 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-8,29.65,29.99,29.54,29.72,1009800 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-7,29.46,29.62,29.18,29.49,1390200 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-6,28.8,28.9,28.64,28.78,744800 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-3,28.85,29.02,28.45,28.56,1087800 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-2,28.1,28.33,28,28.24,1472500 
+12-Aug-24 11:01:02 AM: Processing line: 2013-5-1,27.94,28.19,27.61,27.7,1006900

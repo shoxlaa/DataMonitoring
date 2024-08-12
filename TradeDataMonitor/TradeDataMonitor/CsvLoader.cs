@@ -6,7 +6,9 @@ namespace TradeDataMonitor
     {
         public IEnumerable<TradeData> Load(string filePath)
         {
-            var tradeDataList = new List<TradeData>();
+            var tradeDataList = new List<TradeData>(); 
+
+
             var lines = File.ReadAllLines(filePath);
             Logger.Log($"Loading file: {filePath}");
             foreach (var line in lines)

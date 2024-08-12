@@ -11,7 +11,12 @@
             <DataGrid x:Name="tradeDataGrid" AutoGenerateColumns="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"  MaxHeight="300">
             </DataGrid>
             <Button Content="Change Directory" Click="ChangeDirectoryButton_Click" />
-            
+            <DockPanel>
+
+                <TextBlock DockPanel.Dock="Top" Text="Files in selected folder:" Margin="10" FontWeight="Bold"/>
+                <ListBox x:Name="FilesListBox" Margin="10"/>
+            </DockPanel>
         </StackPanel>
+        
     </Grid>
 </Window>

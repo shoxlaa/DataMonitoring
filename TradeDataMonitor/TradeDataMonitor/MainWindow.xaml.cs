@@ -3,6 +3,7 @@ using System.Configuration;
 using System.IO;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Input;
 using Microsoft.Win32;
 using Microsoft.WindowsAPICodePack.Dialogs;
 using MessageBox = System.Windows.MessageBox; // Это необходимо, чтобы избежать конфликта имен с System.Windows.Forms.MessageBox
@@ -16,6 +17,7 @@ namespace TradeDataMonitor
     public partial class MainWindow : Window
     {
         public ObservableCollection<TradeData> TradeDataList { get; set; }
+        //public ObservableCollection<string> FilesListBox { get; set; }
         private DirectoryMonitor _directoryMonitor;
         private Task _monitoringTask;
         private bool _isMonitoring;
@@ -26,6 +28,7 @@ namespace TradeDataMonitor
         {
             InitializeComponent();
             TradeDataList = new ObservableCollection<TradeData>();
+            
             tradeDataGrid.ItemsSource = TradeDataList;
 
             LoadConfiguration();
@@ -39,11 +42,7 @@ namespace TradeDataMonitor
             var loaders = new List<ILoader> { new CsvLoader(), new XmlLoader(), new TxtLoader() };
             _directoryMonitor = new DirectoryMonitor(directoryPath, monitoringFrequency, loaders);
 
-            _initialLoading = true;
-            ProcessExistingFiles(directoryPath); // Обрабатываем файлы без использования FileSystemWatcher
-            _initialLoading = false;
-
-            ResetFileWatcher(directoryPath);
+            
         }
 
         private void ProcessExistingFiles(string directoryPath)
@@ -134,18 +133,40 @@ namespace TradeDataMonitor
 
         private void ChangeDirectoryButton_Click(object sender, RoutedEventArgs e)
         {
+
+            Configuration configuration = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
+
             CommonOpenFileDialog dialog = new CommonOpenFileDialog
             {
-                InitialDirectory = "C:\\Users",
-                IsFolderPicker = true
+                InitialDirectory = configuration.AppSettings.Settings["InputDirectory"].Value,
+                IsFolderPicker = true 
             }; 
+
 
             if (dialog.ShowDialog() == CommonFileDialogResult.Ok)
             {
+                string selectedPath = dialog.FileName;
+
+                // Получаем список файлов в выбранной папке
+                var files = Directory.GetFiles(selectedPath);
+
+                // Очищаем предыдущие элементы и добавляем новые в ListBox
+                FilesListBox.Items.Clear();
+
+                foreach (var file in files)
+                {
+                    FilesListBox.Items.Add(Path.GetFileName(file));
+                }
                 var newDirectory = dialog.FileName;
                 UpdateConfiguration("InputDirectory", newDirectory);
 
+
                 LoadConfiguration();
+                _initialLoading = true;
+                ProcessExistingFiles(newDirectory); // Обрабатываем файлы без использования FileSystemWatcher
+                _initialLoading = false;
+
+                ResetFileWatcher(newDirectory);
                 StartMonitoringAsync(); // Перезапуск мониторинга
             }
         }

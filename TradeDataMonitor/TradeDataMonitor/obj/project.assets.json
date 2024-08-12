@@ -59,24 +59,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Legion\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\TradeDataMonitor.csproj",
+      "projectUniqueName": "C:\\Users\\Quliyeva Shahla\\source\\repos\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\TradeDataMonitor.csproj",
       "projectName": "TradeDataMonitor",
-      "projectPath": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\TradeDataMonitor.csproj",
-      "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Legion\\Desktop\\xalq bank\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\obj\\",
+      "projectPath": "C:\\Users\\Quliyeva Shahla\\source\\repos\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\TradeDataMonitor.csproj",
+      "packagesPath": "C:\\Users\\Quliyeva Shahla\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Quliyeva Shahla\\source\\repos\\DataMonitoring\\TradeDataMonitor\\TradeDataMonitor\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Quliyeva Shahla\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
