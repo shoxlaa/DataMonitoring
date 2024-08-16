@@ -8,12 +8,14 @@
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
         <StackPanel>
-            <DataGrid x:Name="tradeDataGrid" AutoGenerateColumns="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"  MaxHeight="300">
+            <DataGrid ItemsSource="{Binding TradeDataList, Mode=TwoWay , NotifyOnSourceUpdated=True }" AutoGenerateColumns="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"  MaxHeight="300">
             </DataGrid>
 
             <Button Command="{Binding  ChangeLocationCommand}" Content="Change Directory"  />
             <Label Foreground="White">File Path</Label>
             <TextBlock  Foreground="White" Text="{Binding Pwd , Mode=TwoWay , NotifyOnSourceUpdated=True}"> Path </TextBlock>
+            <TextBlock Foreground="White">Files in selected folder : </TextBlock>
+            <ListBox Foreground="Black"   MaxHeight="300" ItemsSource="{Binding FilesListBox, Mode=TwoWay , NotifyOnSourceUpdated=True}"></ListBox>
         </StackPanel>
     </Grid>
 </UserControl>
